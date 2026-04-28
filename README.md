@@ -19,9 +19,9 @@ O **Mixxer** não é apenas mais um software de modelagem. Ele é uma força da 
 
 ## 🛠️ Funcionalidades (ou quase isso)
 
-1.  **Modelagem por Grito:** Fale com o seu PC e veja os vértices se moverem.
-2.  **Modo Pesadelo:** Ativa shaders que a mente humana ainda não compreende.
-3.  **Exportação Instantânea:** Formatos de arquivo que só o Mixxer lê.
+1.  **Modelagem por AI(Se usar nem instale)** Use AI para modelar e animar
+2.  **Modo 2d rigged** utilizado para animação 2d
+3.  **Exportação Instantânea:** Formatos de arquivo que só o Mixxer lê (.mixxer).
 
 ## 🚀 Como instalar
 
