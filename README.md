@@ -5,7 +5,7 @@
 O **Mixxer** não é apenas mais um software de modelagem. Ele é uma força da natureza digital. Projetado para quem acha o Blender muito "certinho" e o Maya muito caro, o Mixxer abraça o caos e a robustez.
 
 <p align="center">
-  <img src="Sem titulo.png" alt="Mixxer Logo" width="300">
+  <img src="logomixxer.png" alt="Mixxer Logo" width="300">
 </p>
 
 ---
