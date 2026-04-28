@@ -1,4 +1,4 @@
-# <img src="mixxer.png" width="40" height="40"> Mixxer
+# <img src="logomixxer.png" width="40" height="40"> Mixxer
 
 > **The more tuff 3D software ever created.**
 
@@ -29,7 +29,7 @@ O **Mixxer** não é apenas mais um software de modelagem. Ele é uma força da 
 2.  Baixe o executável (quando ele decidir existir).
 3.  Abra e reze para o seu GPU.
 
-## ⚠️ Mixxer não é um software de modelagem para uso profissional/para
+## ⚠️ Mixxer não é um software de modelagem para uso profissional!
 filmes ou animações complexas, mixxer foi feito por pedruodevrs e ninguém mais.
 
 ---
