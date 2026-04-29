@@ -36,8 +36,8 @@ filmes ou animações complexas, mixxer foi feito por pedruodevrs e ninguém mai
 <p align="center">
   <i>"A realidade é opcional. O Mixxer é inevitável."</i>
 </p>
-@
-<p align= "center">
-  <i>"Mixxer engine 2026 company©p"</i>
+
+<p align= "left">
+  <i>"Mixxer engine 2026 company©"</i>
 </p>
-@
+
