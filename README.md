@@ -30,7 +30,7 @@ O **Mixxer** não é apenas mais um software de modelagem. Ele é uma força da 
 3.  Abra e reze para o seu GPU.
 
 ## ⚠️ Mixxer não é um software de modelagem para uso profissional!
-filmes ou animações complexas, mixxer foi feito por pedruodevrs e ninguém mais.
+não é recomendado filmes ou animações complexas, mixxer foi feito por pedruodevrs e ninguém mais.
 
 ---
 <p align="center">
