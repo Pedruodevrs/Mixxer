@@ -38,6 +38,6 @@ filmes ou animações complexas, mixxer foi feito por pedruodevrs e ninguém mai
 </p>
 
 <p align= "left">
-  <i>"Mixxer engine 2026 company©"</i>
+  <i>Mixxer engine 2026 company©</i>
 </p>
 
